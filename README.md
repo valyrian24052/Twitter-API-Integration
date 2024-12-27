@@ -26,3 +26,6 @@ The system tracks the accumulation of points based on these user actions. It all
 3. **Leaderboards**
     - Users can view leaderboards that show top participants based on the number of points they've earned.
     - Leaderboards are updated as users accumulate points from different interactions.
+  
+## Author
+[AnotherRusty](https://t.me/idioRusty)
